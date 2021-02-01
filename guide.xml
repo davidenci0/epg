@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="LA SEXTA HD">
     <display-name lang="es">LA SEXTA HD</display-name>
@@ -36,334 +36,334 @@
     <display-name lang="es">#0 HD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20210201002800 -0600" stop="20210201013800 -0600" channel="#0 4K">
+  <programme start="20210201002800 +0100" stop="20210201013800 +0100" channel="#0 4K">
     <title lang="es">Otros Mundos Señales</title>
   </programme>
-  <programme start="20210201013800 -0600" stop="20210201023100 -0600" channel="#0 4K">
+  <programme start="20210201013800 +0100" stop="20210201023100 +0100" channel="#0 4K">
     <title lang="es">Cielos ancestrales</title>
   </programme>
-  <programme start="20210201023100 -0600" stop="20210201032400 -0600" channel="#0 4K">
+  <programme start="20210201023100 +0100" stop="20210201032400 +0100" channel="#0 4K">
     <title lang="es">Cielos ancestrales</title>
   </programme>
-  <programme start="20210201032400 -0600" stop="20210201041700 -0600" channel="#0 4K">
+  <programme start="20210201032400 +0100" stop="20210201041700 +0100" channel="#0 4K">
     <title lang="es">Cielos ancestrales</title>
   </programme>
-  <programme start="20210201041700 -0600" stop="20210201050900 -0600" channel="#0 4K">
+  <programme start="20210201041700 +0100" stop="20210201050900 +0100" channel="#0 4K">
     <title lang="es">La magia de la Luna</title>
   </programme>
-  <programme start="20210201050900 -0600" stop="20210201060000 -0600" channel="#0 4K">
+  <programme start="20210201050900 +0100" stop="20210201060000 +0100" channel="#0 4K">
     <title lang="es">La magia de la Luna</title>
   </programme>
-  <programme start="20210201060000 -0600" stop="20210201065400 -0600" channel="#0 4K">
+  <programme start="20210201060000 +0100" stop="20210201065400 +0100" channel="#0 4K">
     <title lang="es">La magia de la Luna</title>
   </programme>
-  <programme start="20210201065400 -0600" stop="20210201075100 -0600" channel="#0 4K">
+  <programme start="20210201065400 +0100" stop="20210201075100 +0100" channel="#0 4K">
     <title lang="es">Antártida, un mensaje de otro planeta</title>
   </programme>
-  <programme start="20210201075100 -0600" stop="20210201080100 -0600" channel="#0 4K">
+  <programme start="20210201075100 +0100" stop="20210201080100 +0100" channel="#0 4K">
     <title lang="es">Cómo se hizo Un planeta perfecto</title>
   </programme>
-  <programme start="20210201080100 -0600" stop="20210201090500 -0600" channel="#0 4K">
+  <programme start="20210201080100 +0100" stop="20210201090500 +0100" channel="#0 4K">
     <title lang="es">Alejandro Sanz El mundo fuera</title>
   </programme>
-  <programme start="20210201090500 -0600" stop="20210201095100 -0600" channel="#0 4K">
+  <programme start="20210201090500 +0100" stop="20210201095100 +0100" channel="#0 4K">
     <title lang="es">Curiosity</title>
   </programme>
-  <programme start="20210201095100 -0600" stop="20210201104200 -0600" channel="#0 4K">
+  <programme start="20210201095100 +0100" stop="20210201104200 +0100" channel="#0 4K">
     <title lang="es">Cachorros, su primer año de vida</title>
   </programme>
-  <programme start="20210201104200 -0600" stop="20210201121500 -0600" channel="#0 4K">
+  <programme start="20210201104200 +0100" stop="20210201121500 +0100" channel="#0 4K">
     <title lang="es">Ahora o Nunca</title>
   </programme>
-  <programme start="20210201121500 -0600" stop="20210201140300 -0600" channel="#0 4K">
+  <programme start="20210201121500 +0100" stop="20210201140300 +0100" channel="#0 4K">
     <title lang="es">El cambiazo</title>
   </programme>
-  <programme start="20210201140300 -0600" stop="20210201145400 -0600" channel="#0 4K">
+  <programme start="20210201140300 +0100" stop="20210201145400 +0100" channel="#0 4K">
     <title lang="es">Grandes inventos</title>
   </programme>
-  <programme start="20210201145400 -0600" stop="20210201152200 -0600" channel="#0 4K">
+  <programme start="20210201145400 +0100" stop="20210201152200 +0100" channel="#0 4K">
     <title lang="es">LocoMundo</title>
   </programme>
-  <programme start="20210201152200 -0600" stop="20210201155300 -0600" channel="#0 4K">
+  <programme start="20210201152200 +0100" stop="20210201155300 +0100" channel="#0 4K">
     <title lang="es">Ilustres Ignorantes</title>
   </programme>
-  <programme start="20210201155300 -0600" stop="20210201174500 -0600" channel="#0 4K">
+  <programme start="20210201155300 +0100" stop="20210201174500 +0100" channel="#0 4K">
     <title lang="es">El consejero</title>
   </programme>
-  <programme start="20210201174500 -0600" stop="20210201195100 -0600" channel="#0 4K">
+  <programme start="20210201174500 +0100" stop="20210201195100 +0100" channel="#0 4K">
     <title lang="es">12 Años de Esclavitud</title>
   </programme>
-  <programme start="20210201195100 -0600" stop="20210201203400 -0600" channel="#0 4K">
+  <programme start="20210201195100 +0100" stop="20210201203400 +0100" channel="#0 4K">
     <title lang="es">Blue Bloods (Familia de Policías)</title>
   </programme>
-  <programme start="20210201203400 -0600" stop="20210201211500 -0600" channel="#0 4K">
+  <programme start="20210201203400 +0100" stop="20210201211500 +0100" channel="#0 4K">
     <title lang="es">Blue Bloods (Familia de Policías)</title>
   </programme>
-  <programme start="20210201211500 -0600" stop="20210201220800 -0600" channel="#0 4K">
+  <programme start="20210201211500 +0100" stop="20210201220800 +0100" channel="#0 4K">
     <title lang="es">Grandes inventos</title>
   </programme>
-  <programme start="20210201220800 -0600" stop="20210201230000 -0600" channel="#0 4K">
+  <programme start="20210201220800 +0100" stop="20210201230000 +0100" channel="#0 4K">
     <title lang="es">Un planeta perfecto</title>
   </programme>
-  <programme start="20210201230000 -0600" stop="20210202000200 -0600" channel="#0 4K">
+  <programme start="20210201230000 +0100" stop="20210202000200 +0100" channel="#0 4K">
     <title lang="es">Late Motiv</title>
   </programme>
-  <programme start="20210202000200 -0600" stop="20210202010500 -0600" channel="#0 4K">
+  <programme start="20210202000200 +0100" stop="20210202010500 +0100" channel="#0 4K">
     <title lang="es">La resistencia</title>
   </programme>
-  <programme start="20210202010500 -0600" stop="20210202023700 -0600" channel="#0 4K">
+  <programme start="20210202010500 +0100" stop="20210202023700 +0100" channel="#0 4K">
     <title lang="es">Porvenir</title>
   </programme>
-  <programme start="20210202023700 -0600" stop="20210202033400 -0600" channel="#0 4K">
+  <programme start="20210202023700 +0100" stop="20210202033400 +0100" channel="#0 4K">
     <title lang="es">Guerra al plástico</title>
   </programme>
-  <programme start="20210202033400 -0600" stop="20210202043100 -0600" channel="#0 4K">
+  <programme start="20210202033400 +0100" stop="20210202043100 +0100" channel="#0 4K">
     <title lang="es">Guerra al plástico</title>
   </programme>
-  <programme start="20210202043100 -0600" stop="20210202052900 -0600" channel="#0 4K">
+  <programme start="20210202043100 +0100" stop="20210202052900 +0100" channel="#0 4K">
     <title lang="es">Guerra al plástico</title>
   </programme>
-  <programme start="20210202052900 -0600" stop="20210202062700 -0600" channel="#0 4K">
+  <programme start="20210202052900 +0100" stop="20210202062700 +0100" channel="#0 4K">
     <title lang="es">Guerra al plástico</title>
   </programme>
-  <programme start="20210202062700 -0600" stop="20210202080500 -0600" channel="#0 4K">
+  <programme start="20210202062700 +0100" stop="20210202080500 +0100" channel="#0 4K">
     <title lang="es">Documentales</title>
   </programme>
-  <programme start="20210202080500 -0600" stop="20210202085100 -0600" channel="#0 4K">
+  <programme start="20210202080500 +0100" stop="20210202085100 +0100" channel="#0 4K">
     <title lang="es">Curiosity</title>
   </programme>
-  <programme start="20210202085100 -0600" stop="20210202094300 -0600" channel="#0 4K">
+  <programme start="20210202085100 +0100" stop="20210202094300 +0100" channel="#0 4K">
     <title lang="es">Cachorros, su primer año de vida</title>
   </programme>
-  <programme start="20210202094300 -0600" stop="20210202113600 -0600" channel="#0 4K">
+  <programme start="20210202094300 +0100" stop="20210202113600 +0100" channel="#0 4K">
     <title lang="es">El consejero</title>
   </programme>
-  <programme start="20210202113600 -0600" stop="20210202122900 -0600" channel="#0 4K">
+  <programme start="20210202113600 +0100" stop="20210202122900 +0100" channel="#0 4K">
     <title lang="es">Grandes inventos</title>
   </programme>
-  <programme start="20210202122900 -0600" stop="20210202132700 -0600" channel="#0 4K">
+  <programme start="20210202122900 +0100" stop="20210202132700 +0100" channel="#0 4K">
     <title lang="es">Un planeta perfecto</title>
   </programme>
-  <programme start="20210202132700 -0600" stop="20210202142800 -0600" channel="#0 4K">
+  <programme start="20210202132700 +0100" stop="20210202142800 +0100" channel="#0 4K">
     <title lang="es">Late Motiv</title>
   </programme>
-  <programme start="20210202142800 -0600" stop="20210202153000 -0600" channel="#0 4K">
+  <programme start="20210202142800 +0100" stop="20210202153000 +0100" channel="#0 4K">
     <title lang="es">La resistencia</title>
   </programme>
-  <programme start="20210202153000 -0600" stop="20210202171200 -0600" channel="#0 4K">
+  <programme start="20210202153000 +0100" stop="20210202171200 +0100" channel="#0 4K">
     <title lang="es">Plan en Las Vegas</title>
   </programme>
-  <programme start="20210202171200 -0600" stop="20210202185200 -0600" channel="#0 4K">
+  <programme start="20210202171200 +0100" stop="20210202185200 +0100" channel="#0 4K">
     <title lang="es">El camino de vuelta</title>
   </programme>
-  <programme start="20210202185200 -0600" stop="20210202193600 -0600" channel="#0 4K">
+  <programme start="20210202185200 +0100" stop="20210202193600 +0100" channel="#0 4K">
     <title lang="es">Blue Bloods (Familia de Policías)</title>
   </programme>
-  <programme start="20210202193600 -0600" stop="20210202202000 -0600" channel="#0 4K">
+  <programme start="20210202193600 +0100" stop="20210202202000 +0100" channel="#0 4K">
     <title lang="es">Blue Bloods (Familia de Policías)</title>
   </programme>
-  <programme start="20210202202000 -0600" stop="20210202210500 -0600" channel="#0 4K">
+  <programme start="20210202202000 +0100" stop="20210202210500 +0100" channel="#0 4K">
     <title lang="es">Blue Bloods (Familia de Policías)</title>
   </programme>
-  <programme start="20210202210500 -0600" stop="20210202220000 -0600" channel="#0 4K">
+  <programme start="20210202210500 +0100" stop="20210202220000 +0100" channel="#0 4K">
     <title lang="es">Energía el motor de la historia</title>
   </programme>
-  <programme start="20210202220000 -0600" stop="20210202223000 -0600" channel="#0 4K">
+  <programme start="20210202220000 +0100" stop="20210202223000 +0100" channel="#0 4K">
     <title lang="es">LocoMundo</title>
   </programme>
-  <programme start="20210202223000 -0600" stop="20210202230000 -0600" channel="#0 4K">
+  <programme start="20210202223000 +0100" stop="20210202230000 +0100" channel="#0 4K">
     <title lang="es">Ilustres Ignorantes</title>
   </programme>
-  <programme start="20210202230000 -0600" stop="20210203000500 -0600" channel="#0 4K">
+  <programme start="20210202230000 +0100" stop="20210203000500 +0100" channel="#0 4K">
     <title lang="es">Late Motiv</title>
   </programme>
-  <programme start="20210203230000 -0600" stop="20210204000500 -0600" channel="#0 4K">
+  <programme start="20210203230000 +0100" stop="20210204000500 +0100" channel="#0 4K">
     <title lang="es">Late Motiv</title>
   </programme>
-  <programme start="20210204000500 -0600" stop="20210204011000 -0600" channel="#0 4K">
+  <programme start="20210204000500 +0100" stop="20210204011000 +0100" channel="#0 4K">
     <title lang="es">La resistencia</title>
   </programme>
-  <programme start="20210204011000 -0600" stop="20210204020700 -0600" channel="#0 4K">
+  <programme start="20210204011000 +0100" stop="20210204020700 +0100" channel="#0 4K">
     <title lang="es">Un planeta perfecto</title>
   </programme>
-  <programme start="20210204020700 -0600" stop="20210204025900 -0600" channel="#0 4K">
+  <programme start="20210204020700 +0100" stop="20210204025900 +0100" channel="#0 4K">
     <title lang="es">Grandes inventos</title>
   </programme>
-  <programme start="20210204025900 -0600" stop="20210204035500 -0600" channel="#0 4K">
+  <programme start="20210204025900 +0100" stop="20210204035500 +0100" channel="#0 4K">
     <title lang="es">Europa historia de la clase obrera</title>
   </programme>
-  <programme start="20210204035500 -0600" stop="20210204045200 -0600" channel="#0 4K">
+  <programme start="20210204035500 +0100" stop="20210204045200 +0100" channel="#0 4K">
     <title lang="es">Europa historia de la clase obrera</title>
   </programme>
-  <programme start="20210204045200 -0600" stop="20210204054600 -0600" channel="#0 4K">
+  <programme start="20210204045200 +0100" stop="20210204054600 +0100" channel="#0 4K">
     <title lang="es">Europa historia de la clase obrera</title>
   </programme>
-  <programme start="20210204054600 -0600" stop="20210204064300 -0600" channel="#0 4K">
+  <programme start="20210204054600 +0100" stop="20210204064300 +0100" channel="#0 4K">
     <title lang="es">Europa historia de la clase obrera</title>
   </programme>
-  <programme start="20210201002800 -0600" stop="20210201013800 -0600" channel="#0 HD">
+  <programme start="20210201002800 +0100" stop="20210201013800 +0100" channel="#0 HD">
     <title lang="es">Otros Mundos Señales</title>
   </programme>
-  <programme start="20210201013800 -0600" stop="20210201023100 -0600" channel="#0 HD">
+  <programme start="20210201013800 +0100" stop="20210201023100 +0100" channel="#0 HD">
     <title lang="es">Cielos ancestrales</title>
   </programme>
-  <programme start="20210201023100 -0600" stop="20210201032400 -0600" channel="#0 HD">
+  <programme start="20210201023100 +0100" stop="20210201032400 +0100" channel="#0 HD">
     <title lang="es">Cielos ancestrales</title>
   </programme>
-  <programme start="20210201032400 -0600" stop="20210201041700 -0600" channel="#0 HD">
+  <programme start="20210201032400 +0100" stop="20210201041700 +0100" channel="#0 HD">
     <title lang="es">Cielos ancestrales</title>
   </programme>
-  <programme start="20210201041700 -0600" stop="20210201050900 -0600" channel="#0 HD">
+  <programme start="20210201041700 +0100" stop="20210201050900 +0100" channel="#0 HD">
     <title lang="es">La magia de la Luna</title>
   </programme>
-  <programme start="20210201050900 -0600" stop="20210201060000 -0600" channel="#0 HD">
+  <programme start="20210201050900 +0100" stop="20210201060000 +0100" channel="#0 HD">
     <title lang="es">La magia de la Luna</title>
   </programme>
-  <programme start="20210201060000 -0600" stop="20210201065400 -0600" channel="#0 HD">
+  <programme start="20210201060000 +0100" stop="20210201065400 +0100" channel="#0 HD">
     <title lang="es">La magia de la Luna</title>
   </programme>
-  <programme start="20210201065400 -0600" stop="20210201075100 -0600" channel="#0 HD">
+  <programme start="20210201065400 +0100" stop="20210201075100 +0100" channel="#0 HD">
     <title lang="es">Antártida, un mensaje de otro planeta</title>
   </programme>
-  <programme start="20210201075100 -0600" stop="20210201080100 -0600" channel="#0 HD">
+  <programme start="20210201075100 +0100" stop="20210201080100 +0100" channel="#0 HD">
     <title lang="es">Cómo se hizo Un planeta perfecto</title>
   </programme>
-  <programme start="20210201080100 -0600" stop="20210201090500 -0600" channel="#0 HD">
+  <programme start="20210201080100 +0100" stop="20210201090500 +0100" channel="#0 HD">
     <title lang="es">Alejandro Sanz El mundo fuera</title>
   </programme>
-  <programme start="20210201090500 -0600" stop="20210201095100 -0600" channel="#0 HD">
+  <programme start="20210201090500 +0100" stop="20210201095100 +0100" channel="#0 HD">
     <title lang="es">Curiosity</title>
   </programme>
-  <programme start="20210201095100 -0600" stop="20210201104200 -0600" channel="#0 HD">
+  <programme start="20210201095100 +0100" stop="20210201104200 +0100" channel="#0 HD">
     <title lang="es">Cachorros, su primer año de vida</title>
   </programme>
-  <programme start="20210201104200 -0600" stop="20210201121500 -0600" channel="#0 HD">
+  <programme start="20210201104200 +0100" stop="20210201121500 +0100" channel="#0 HD">
     <title lang="es">Ahora o Nunca</title>
   </programme>
-  <programme start="20210201121500 -0600" stop="20210201140300 -0600" channel="#0 HD">
+  <programme start="20210201121500 +0100" stop="20210201140300 +0100" channel="#0 HD">
     <title lang="es">El cambiazo</title>
   </programme>
-  <programme start="20210201140300 -0600" stop="20210201145400 -0600" channel="#0 HD">
+  <programme start="20210201140300 +0100" stop="20210201145400 +0100" channel="#0 HD">
     <title lang="es">Grandes inventos</title>
   </programme>
-  <programme start="20210201145400 -0600" stop="20210201152200 -0600" channel="#0 HD">
+  <programme start="20210201145400 +0100" stop="20210201152200 +0100" channel="#0 HD">
     <title lang="es">LocoMundo</title>
   </programme>
-  <programme start="20210201152200 -0600" stop="20210201155300 -0600" channel="#0 HD">
+  <programme start="20210201152200 +0100" stop="20210201155300 +0100" channel="#0 HD">
     <title lang="es">Ilustres Ignorantes</title>
   </programme>
-  <programme start="20210201155300 -0600" stop="20210201174500 -0600" channel="#0 HD">
+  <programme start="20210201155300 +0100" stop="20210201174500 +0100" channel="#0 HD">
     <title lang="es">El consejero</title>
   </programme>
-  <programme start="20210201174500 -0600" stop="20210201195100 -0600" channel="#0 HD">
+  <programme start="20210201174500 +0100" stop="20210201195100 +0100" channel="#0 HD">
     <title lang="es">12 Años de Esclavitud</title>
   </programme>
-  <programme start="20210201195100 -0600" stop="20210201203400 -0600" channel="#0 HD">
+  <programme start="20210201195100 +0100" stop="20210201203400 +0100" channel="#0 HD">
     <title lang="es">Blue Bloods (Familia de Policías)</title>
   </programme>
-  <programme start="20210201203400 -0600" stop="20210201211500 -0600" channel="#0 HD">
+  <programme start="20210201203400 +0100" stop="20210201211500 +0100" channel="#0 HD">
     <title lang="es">Blue Bloods (Familia de Policías)</title>
   </programme>
-  <programme start="20210201211500 -0600" stop="20210201220800 -0600" channel="#0 HD">
+  <programme start="20210201211500 +0100" stop="20210201220800 +0100" channel="#0 HD">
     <title lang="es">Grandes inventos</title>
   </programme>
-  <programme start="20210201220800 -0600" stop="20210201230000 -0600" channel="#0 HD">
+  <programme start="20210201220800 +0100" stop="20210201230000 +0100" channel="#0 HD">
     <title lang="es">Un planeta perfecto</title>
   </programme>
-  <programme start="20210201230000 -0600" stop="20210202000200 -0600" channel="#0 HD">
+  <programme start="20210201230000 +0100" stop="20210202000200 +0100" channel="#0 HD">
     <title lang="es">Late Motiv</title>
   </programme>
-  <programme start="20210202000200 -0600" stop="20210202010500 -0600" channel="#0 HD">
+  <programme start="20210202000200 +0100" stop="20210202010500 +0100" channel="#0 HD">
     <title lang="es">La resistencia</title>
   </programme>
-  <programme start="20210202010500 -0600" stop="20210202023700 -0600" channel="#0 HD">
+  <programme start="20210202010500 +0100" stop="20210202023700 +0100" channel="#0 HD">
     <title lang="es">Porvenir</title>
   </programme>
-  <programme start="20210202023700 -0600" stop="20210202033400 -0600" channel="#0 HD">
+  <programme start="20210202023700 +0100" stop="20210202033400 +0100" channel="#0 HD">
     <title lang="es">Guerra al plástico</title>
   </programme>
-  <programme start="20210202033400 -0600" stop="20210202043100 -0600" channel="#0 HD">
+  <programme start="20210202033400 +0100" stop="20210202043100 +0100" channel="#0 HD">
     <title lang="es">Guerra al plástico</title>
   </programme>
-  <programme start="20210202043100 -0600" stop="20210202052900 -0600" channel="#0 HD">
+  <programme start="20210202043100 +0100" stop="20210202052900 +0100" channel="#0 HD">
     <title lang="es">Guerra al plástico</title>
   </programme>
-  <programme start="20210202052900 -0600" stop="20210202062700 -0600" channel="#0 HD">
+  <programme start="20210202052900 +0100" stop="20210202062700 +0100" channel="#0 HD">
     <title lang="es">Guerra al plástico</title>
   </programme>
-  <programme start="20210202062700 -0600" stop="20210202080500 -0600" channel="#0 HD">
+  <programme start="20210202062700 +0100" stop="20210202080500 +0100" channel="#0 HD">
     <title lang="es">Documentales</title>
   </programme>
-  <programme start="20210202080500 -0600" stop="20210202085100 -0600" channel="#0 HD">
+  <programme start="20210202080500 +0100" stop="20210202085100 +0100" channel="#0 HD">
     <title lang="es">Curiosity</title>
   </programme>
-  <programme start="20210202085100 -0600" stop="20210202094300 -0600" channel="#0 HD">
+  <programme start="20210202085100 +0100" stop="20210202094300 +0100" channel="#0 HD">
     <title lang="es">Cachorros, su primer año de vida</title>
   </programme>
-  <programme start="20210202094300 -0600" stop="20210202113600 -0600" channel="#0 HD">
+  <programme start="20210202094300 +0100" stop="20210202113600 +0100" channel="#0 HD">
     <title lang="es">El consejero</title>
   </programme>
-  <programme start="20210202113600 -0600" stop="20210202122900 -0600" channel="#0 HD">
+  <programme start="20210202113600 +0100" stop="20210202122900 +0100" channel="#0 HD">
     <title lang="es">Grandes inventos</title>
   </programme>
-  <programme start="20210202122900 -0600" stop="20210202132700 -0600" channel="#0 HD">
+  <programme start="20210202122900 +0100" stop="20210202132700 +0100" channel="#0 HD">
     <title lang="es">Un planeta perfecto</title>
   </programme>
-  <programme start="20210202132700 -0600" stop="20210202142800 -0600" channel="#0 HD">
+  <programme start="20210202132700 +0100" stop="20210202142800 +0100" channel="#0 HD">
     <title lang="es">Late Motiv</title>
   </programme>
-  <programme start="20210202142800 -0600" stop="20210202153000 -0600" channel="#0 HD">
+  <programme start="20210202142800 +0100" stop="20210202153000 +0100" channel="#0 HD">
     <title lang="es">La resistencia</title>
   </programme>
-  <programme start="20210202153000 -0600" stop="20210202171200 -0600" channel="#0 HD">
+  <programme start="20210202153000 +0100" stop="20210202171200 +0100" channel="#0 HD">
     <title lang="es">Plan en Las Vegas</title>
   </programme>
-  <programme start="20210202171200 -0600" stop="20210202185200 -0600" channel="#0 HD">
+  <programme start="20210202171200 +0100" stop="20210202185200 +0100" channel="#0 HD">
     <title lang="es">El camino de vuelta</title>
   </programme>
-  <programme start="20210202185200 -0600" stop="20210202193600 -0600" channel="#0 HD">
+  <programme start="20210202185200 +0100" stop="20210202193600 +0100" channel="#0 HD">
     <title lang="es">Blue Bloods (Familia de Policías)</title>
   </programme>
-  <programme start="20210202193600 -0600" stop="20210202202000 -0600" channel="#0 HD">
+  <programme start="20210202193600 +0100" stop="20210202202000 +0100" channel="#0 HD">
     <title lang="es">Blue Bloods (Familia de Policías)</title>
   </programme>
-  <programme start="20210202202000 -0600" stop="20210202210500 -0600" channel="#0 HD">
+  <programme start="20210202202000 +0100" stop="20210202210500 +0100" channel="#0 HD">
     <title lang="es">Blue Bloods (Familia de Policías)</title>
   </programme>
-  <programme start="20210202210500 -0600" stop="20210202220000 -0600" channel="#0 HD">
+  <programme start="20210202210500 +0100" stop="20210202220000 +0100" channel="#0 HD">
     <title lang="es">Energía el motor de la historia</title>
   </programme>
-  <programme start="20210202220000 -0600" stop="20210202223000 -0600" channel="#0 HD">
+  <programme start="20210202220000 +0100" stop="20210202223000 +0100" channel="#0 HD">
     <title lang="es">LocoMundo</title>
   </programme>
-  <programme start="20210202223000 -0600" stop="20210202230000 -0600" channel="#0 HD">
+  <programme start="20210202223000 +0100" stop="20210202230000 +0100" channel="#0 HD">
     <title lang="es">Ilustres Ignorantes</title>
   </programme>
-  <programme start="20210202230000 -0600" stop="20210203000500 -0600" channel="#0 HD">
+  <programme start="20210202230000 +0100" stop="20210203000500 +0100" channel="#0 HD">
     <title lang="es">Late Motiv</title>
   </programme>
-  <programme start="20210203230000 -0600" stop="20210204000500 -0600" channel="#0 HD">
+  <programme start="20210203230000 +0100" stop="20210204000500 +0100" channel="#0 HD">
     <title lang="es">Late Motiv</title>
   </programme>
-  <programme start="20210204000500 -0600" stop="20210204011000 -0600" channel="#0 HD">
+  <programme start="20210204000500 +0100" stop="20210204011000 +0100" channel="#0 HD">
     <title lang="es">La resistencia</title>
   </programme>
-  <programme start="20210204011000 -0600" stop="20210204020700 -0600" channel="#0 HD">
+  <programme start="20210204011000 +0100" stop="20210204020700 +0100" channel="#0 HD">
     <title lang="es">Un planeta perfecto</title>
   </programme>
-  <programme start="20210204020700 -0600" stop="20210204025900 -0600" channel="#0 HD">
+  <programme start="20210204020700 +0100" stop="20210204025900 +0100" channel="#0 HD">
     <title lang="es">Grandes inventos</title>
   </programme>
-  <programme start="20210204025900 -0600" stop="20210204035500 -0600" channel="#0 HD">
+  <programme start="20210204025900 +0100" stop="20210204035500 +0100" channel="#0 HD">
     <title lang="es">Europa historia de la clase obrera</title>
   </programme>
-  <programme start="20210204035500 -0600" stop="20210204045200 -0600" channel="#0 HD">
+  <programme start="20210204035500 +0100" stop="20210204045200 +0100" channel="#0 HD">
     <title lang="es">Europa historia de la clase obrera</title>
   </programme>
-  <programme start="20210204045200 -0600" stop="20210204054600 -0600" channel="#0 HD">
+  <programme start="20210204045200 +0100" stop="20210204054600 +0100" channel="#0 HD">
     <title lang="es">Europa historia de la clase obrera</title>
   </programme>
-  <programme start="20210204054600 -0600" stop="20210204064300 -0600" channel="#0 HD">
+  <programme start="20210204054600 +0100" stop="20210204064300 +0100" channel="#0 HD">
     <title lang="es">Europa historia de la clase obrera</title>
   </programme>
 </tv>
