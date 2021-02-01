@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="#0 4K">
+    <display-name lang="es">#0 4K</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="#0 HD">
+    <display-name lang="es">#0 HD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="#0 FULL HD">
+    <display-name lang="es">#0 FULL HD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="LA SEXTA HD">
+    <display-name lang="es">LA SEXTA HD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="LA SEXTA FULL HD">
+    <display-name lang="es">LA SEXTA FULL HD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="LA SEXTA 4K">
+    <display-name lang="es">LA SEXTA 4K</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. SERIES 4K">
+    <display-name lang="es">M. SERIES 4K</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. SERIES HD">
+    <display-name lang="es">M. SERIES HD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. SERIES FULL HD">
+    <display-name lang="es">M. SERIES FULL HD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M.SERIES HEVC">
+    <display-name lang="es">M.SERIES HEVC</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+</tv>
